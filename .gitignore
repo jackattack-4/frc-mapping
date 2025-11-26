@@ -1,6 +1,9 @@
 # frames to be processed
 frames/
 
+# i hate apple
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
